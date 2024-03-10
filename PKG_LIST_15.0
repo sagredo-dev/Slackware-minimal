@@ -1,4 +1,4 @@
-# v. 2023.04.23 optimized for slackware 15.0
+# v. 2024.03.10 optimized for slackware 15.0
 
 #[a]
 a/aaa_base
@@ -177,6 +177,7 @@ n/cyrus-sasl
 n/dhcpd
 n/ethtool
 n/gnupg
+n/gnupg2
 n/gnutls
 n/gpa
 n/gpgme
