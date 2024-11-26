@@ -1,4 +1,4 @@
-# v. 2024.03.10 optimized for slackware 15.0
+# v. 2024.11.26 optimized for slackware 15.0
 
 #[a]
 a/aaa_base
@@ -109,6 +109,7 @@ ap/lxc
 ap/man-db
 ap/man-pages
 ap/nano
+ap/neofetch
 ap/slackpkg
 ap/sqlite
 ap/texinfo
