@@ -175,7 +175,6 @@ n/bridge-utils
 n/ca-certificates
 n/curl
 n/cyrus-sasl
-n/dhcpd
 n/ethtool
 n/gnupg
 n/gnupg2
