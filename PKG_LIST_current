@@ -119,7 +119,7 @@ d/automake
 d/binutils
 d/cmake
 d/flex
-d/gcc-11
+d/gcc-15
 d/gcc-g++
 d/git
 d/guile
