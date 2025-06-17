@@ -1,4 +1,4 @@
-# v. 2025.05.01 optimized for slackware 15.0
+# v. 2025.06.15 optimized for slackware current
 
 #[a]
 a/aaa_base
@@ -151,6 +151,7 @@ l/libevent
 l/libidn
 l/libmpc
 l/libnl
+l/libnvme
 l/libpcap
 l/libpsl
 l/libseccomp
@@ -158,6 +159,7 @@ l/libsigsegv
 l/libunistring
 l/libuv
 l/libxml2
+l/liburing
 l/lmdb
 l/lz4
 l/lzo
@@ -177,7 +179,7 @@ n/cyrus-sasl
 n/dnsmasq
 n/ethtool
 n/gnupg
-n/gnupg2
+#n/gnupg2 n/gnupg downloads both
 n/gnutls
 n/gpa
 n/gpgme
@@ -217,6 +219,7 @@ n/netwrite
 n/nftables
 n/nghttp2
 n/nmap
+n/npth
 n/ntp
 n/openssh
 n/openssl
