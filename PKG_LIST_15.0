@@ -132,6 +132,7 @@ d/ninja
 d/perl
 d/pkg-config
 d/python
+d/strace
 
 #[l]
 l/brotli

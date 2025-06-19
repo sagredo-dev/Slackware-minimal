@@ -111,6 +111,7 @@ ap/nano
 ap/neofetch
 ap/slackpkg
 ap/sqlite
+ap/sudo
 ap/texinfo
 
 #[d]
@@ -132,6 +133,7 @@ d/ninja
 d/perl
 d/pkg-config
 d/python
+d/strace
 
 #[l]
 l/brotli
@@ -217,7 +219,7 @@ n/netwatch
 n/network-scripts
 n/netwrite
 n/nftables
-n/nghttp2
+n/nghttp
 n/nmap
 n/npth
 n/ntp
