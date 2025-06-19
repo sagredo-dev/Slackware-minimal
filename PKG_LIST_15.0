@@ -136,6 +136,7 @@ d/strace
 
 #[l]
 l/brotli
+l/elfutils
 l/fuse
 l/gc-
 l/glib2
