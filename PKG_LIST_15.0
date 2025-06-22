@@ -24,6 +24,7 @@ a/devs
 a/dialog
 a/dirmngr
 a/e2fsprogs
+a/efibootmgr
 a/elilo
 a/elogind
 a/etc
