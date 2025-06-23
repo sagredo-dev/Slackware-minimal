@@ -114,6 +114,7 @@ ap/neofetch
 ap/slackpkg
 ap/sqlite
 ap/texinfo
+ap/tmux
 
 #[d]
 d/autoconf

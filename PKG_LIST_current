@@ -115,6 +115,7 @@ ap/slackpkg
 ap/sqlite
 ap/sudo
 ap/texinfo
+ap/tmux
 
 #[d]
 d/autoconf
