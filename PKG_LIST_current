@@ -1,4 +1,4 @@
-# v. 2025.06.15 optimized for slackware current
+# v. 2025.11.08 optimized for slackware current
 
 #[a]
 a/aaa_base
@@ -171,6 +171,7 @@ l/lz4
 l/lzo
 l/mpfr
 l/ncurses
+l/pcre2
 l/pyparsing
 l/xxHash
 l/zlib
