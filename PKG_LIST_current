@@ -1,5 +1,6 @@
 # v. 2026.06.18 optimized for slackware current
 #
+# 2026.07.20 added libmaxminddb (needed by dig command)
 # 2026.06.18 added fprintd (required by pam)
 
 #[a]
@@ -172,6 +173,7 @@ l/liburing
 l/lmdb
 l/lz4
 l/lzo
+l/libmaxminddb
 l/mpfr
 l/ncurses
 l/pcre2
