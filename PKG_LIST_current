@@ -126,7 +126,7 @@ d/automake
 d/binutils
 d/cmake
 d/flex
-d/gcc-15
+d/gcc-16
 d/gcc-g++
 d/git
 d/guile
