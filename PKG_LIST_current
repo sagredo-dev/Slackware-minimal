@@ -1,5 +1,6 @@
 # v. 2026.07.20 optimized for slackware current
 #
+# 2026.10.01 added slackpkg+
 # 2026.07.20 added libmaxminddb (needed by dig command)
 # 2026.06.18 added fprintd (required by pam)
 
@@ -251,3 +252,6 @@ n/uucp
 n/vlan
 n/wget
 n/whois
+
+#[extra]
+extra/slackpkg+
